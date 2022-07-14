@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Anivesh Mohan",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1107@iiitkota.ac.in",
+        "phone": "+916387660701",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Prayagraj",
+            "postalCode": "211001",
+            "city": "prayagraj",
+            "countryCode": " India",
+            "region": "uttarpradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "anivesh_mohan",
+                "url": "https://twitter.com/anivesh_mohan"
+            },
+            {
+                "network": "Github",
+                "username": "Anivesh193",
+                "url": "https://github.com/Anivesh193"
+            },
+            {
+                "network": "linkedin",
+                "username": "Anivesh Mohan",
+                "url": "www.linkedin.com/in/anivesh-mohan"
+            },
+            {
+                "network": "Instagram",
+                "username": "anivesh mohan",
+                "url": "https://www.instagram.com/mein.anivesh.hu/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "r",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "2021",
+            "endDate": "2025",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": ".",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "",
+                "",
+                "",
+                "",
+                "PHP",
+                "MySQL",
+                "",
+                "C/C++",
+                "",
+                "Python",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English,Hindi",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "photography",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "",
+            "keywords": [
+                "",
+                ""
+            ]
+        }
+    ]
+}
